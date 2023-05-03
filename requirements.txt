@@ -1,0 +1,9 @@
+streamlit
+simplejson
+torch
+opencv-python-headless
+numpy
+pillow
+matplotlib
+torchvision
+tqdm
