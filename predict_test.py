@@ -92,7 +92,7 @@ def main():
                              line_thickness=3,
                              font='arial.ttf',
                              font_size=20)
-        
+        streamlit.title('yolov3预测结果展示')
         streamlit.image(plot_img)
 
 
